@@ -7,13 +7,14 @@ Images and examples of explanations are coming in thirs repository. We will work
 
 Contributors : Donovan, Ahmad, Samy :sunglasses:
 
-idea:
-* lesson 
-    * possibility to add lesson
-    * commentary
-* forum
-* newsletter
-* inscription
-    * account
-    * profile
-* points manage (bonus)
+Ideas:
+* Lessons 
+    * Possibility to add lessons
+    * Commentary
+* Forum
+* Newsletter
+* Sign In
+    * Account
+    * Profile
+* Points management (bonus)
+* Scrimba (bonus pour les exemples)
