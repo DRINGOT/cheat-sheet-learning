@@ -1,4 +1,4 @@
-# cheat-sheet-learning
+# Cheat-Sheet-Learning
 **Final project YesWeWeb**
 
 This repository will be used to store all the information we are learning to facilitate the search for information for all people. :smile:
@@ -18,3 +18,5 @@ Ideas:
     * Profile
 * Points management (bonus)
 * Scrimba (bonus pour les exemples)
+
+This repository is for the purpose of a project for our training - YesWeWeb 2 - 2019
